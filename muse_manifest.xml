@@ -1,0 +1,70 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tercerojo.com.ar" resolutions="1x" timestamp="1552501274313">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="136509700" ref="index"/>
+    <file name="iefonts_index.css" crc="366844458" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u908.php" crc="4066802177" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo editable nuevo-01.jpg" crc="173873351" ref="index">
+      <caption webpage="index" alt="iii"/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u405-5.png" crc="4221054035" ref="index"/>
+    <file name="u649-4.png" crc="3773064424" ref="index"/>
+    <file name="logo instagram.png" crc="4274431198" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="branding-01.png" crc="4226357041" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cobertura.png" crc="317267472" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tienda online-01.png" crc="4026787690" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cuadricula tercer ojo-01-01.png" crc="350800578" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram-logo-png-transparent-background-800x799.png" crc="4136430292" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo editable nuevo-01-u305-fr.jpg" crc="4027785480" ref="index"/>
+    <file name="diseño grafico-01-01.jpg" crc="532827289" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="social media-01.png" crc="4189281913" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sitio webs-01-01.png" crc="414257677" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="audiovisual-01.png" crc="181550309" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gestion-01.png" crc="4185804663" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="marketing digital-01.png" crc="4266095841" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="71438782" seo="true" mt="1552490928866" redirect="true"/>
+</manifest>
